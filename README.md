@@ -1,4 +1,4 @@
-# physics-formula-solver
+
 # Physics Formula Solver ⚛️
 
 A simple Python program to calculate basic physics formulas.
@@ -19,3 +19,9 @@ A simple Python program to calculate basic physics formulas.
 
 ## Author
 Siri
+## GUI Version
+This project also includes a Tkinter-based GUI application.
+
+Run:
+python physics_solver_gui.py
+
